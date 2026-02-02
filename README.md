@@ -14,7 +14,6 @@ Hi, I'm **Tanmay**! Thanks for stopping by. I'm passionate about technology and 
 Feel free to reach out and connect with me through any of these platforms:
 
 - **GitHub**: [@tanmay1910](https://github.com/tanmay1910)
-- **Email**: [Reach me via GitHub](https://github.com/tanmay1910)
 - **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/tanmay1910)
 - **Twitter**: [@tanmay1910](https://twitter.com/tanmay1910)
 
